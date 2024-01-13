@@ -14,7 +14,7 @@ Closure: The type of closure used for the bottle.
 
 Country: The country where the wine is produced.
 
-Unit:
+Unit:The pure alcohol contain in the wine bottle
 
 Characteristics:The "Characteristics" feature encapsulates the unique and discernible flavors and aromas present in a particular wine.
 
